@@ -1,0 +1,8 @@
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.csprojResolveAssemblyReference.cache
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.Form1.resources
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.Properties.Resources.resources
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.csproj.GenerateResource.Cache
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\bin\Debug\BitmapFontGen.exe
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\bin\Debug\BitmapFontGen.pdb
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.exe
+c:\users\zenyouji\documents\visual studio 2013\Projects\BitmapFontGen\BitmapFontGen\obj\Debug\BitmapFontGen.pdb

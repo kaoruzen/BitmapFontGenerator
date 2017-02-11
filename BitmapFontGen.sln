@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapFontGen", "BitmapFontGen\BitmapFontGen.csproj", "{13A27237-37A9-4C12-8C51-4D7022B86CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontPlayer", "FontPlayer\FontPlayer.csproj", "{9D44DC68-7358-4C88-B38E-5102125AFC38}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kaoruzen.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BitmapFontGen\\BitmapFontGen.csproj
+		SccProjectName1 = BitmapFontGen
+		SccLocalPath1 = BitmapFontGen
+		SccProjectUniqueName2 = FontPlayer\\FontPlayer.csproj
+		SccProjectName2 = FontPlayer
+		SccLocalPath2 = FontPlayer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A27237-37A9-4C12-8C51-4D7022B86CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A27237-37A9-4C12-8C51-4D7022B86CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A27237-37A9-4C12-8C51-4D7022B86CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A27237-37A9-4C12-8C51-4D7022B86CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D44DC68-7358-4C88-B38E-5102125AFC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D44DC68-7358-4C88-B38E-5102125AFC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D44DC68-7358-4C88-B38E-5102125AFC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D44DC68-7358-4C88-B38E-5102125AFC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

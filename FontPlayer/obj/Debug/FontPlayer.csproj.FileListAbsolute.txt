@@ -1,0 +1,8 @@
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\bin\Debug\FontPlayer.exe
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\bin\Debug\FontPlayer.pdb
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.Form1.resources
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.Properties.Resources.resources
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.csproj.GenerateResource.Cache
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.exe
+C:\Users\Zenyouji\Documents\Visual Studio 2013\Projects\BitmapFontGen\FontPlayer\obj\Debug\FontPlayer.pdb
